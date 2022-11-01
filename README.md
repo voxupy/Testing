@@ -16,9 +16,11 @@ Inżynier Informatyk (specjalizacja programowanie)
   <li>Software testing</li>
   <li>Reporting bugs</li>
   <li>Finding unique CSS selectors and XPaths</li>
-  <li></li>
-  <li></li>
-  
+</ul>
+
+<h2>Tools</h2>
+<ul>
+  <li><a href="https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi/related?hl=pl">Bug Magnet</a> - Exploratory testing assistant for browser</li>
 </ul>
 
 <h2>Languages</h2>

@@ -1,7 +1,8 @@
-<h2>O Mnie</h2>
+<h2>Portfolio</h2>
 
-Hej jestem Kamil, aspiruję na testera.
-
+<h2>About Me</h2>
+Hello, my name is Kamil. I an IT enginner. I graduated from Wyższa Szkoła Informatyki Stosowanej we Wrocławiu. Recently i have started interest to software test.
+ 
 <h2>Wykształcenie</h2>
 
 2016 - 2020 Wyższa Szkoła Informatyki Stosowanej we Wrocławiu <br>

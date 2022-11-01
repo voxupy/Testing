@@ -18,7 +18,7 @@ Inżynier Informatyk (specjalizacja programowanie)
 
 
 <h2>Kursy</h2>
--Kurs SQL - https://www.w3schools.com/
+-Kurs SQL - https://www.w3schools.com/<br>
 -Udemy - Podstawy manualnego testowania oprogramowania
 
 

@@ -10,28 +10,30 @@ Inżynier Informatyk (specjalizacja programowanie)
 
 <h2>Skills</h2>
 <ul>
-  <li>Python,</li><br>
-- SQL podstawy,<br>
-- Tworzenie przypadków i scenariuszy testowych,  <br>
+  <li>Python,</li>
+  <li>SQL,</li>
+  <li>Tworzenie przypadków i scenariuszy testowych,</li>
 </ul>
 
 <h2>Languages</h2>
--English B2/B1<br>
+<ul>
+  <li>English B2/B1</li>
+</ul>
 
 
 <h2>Coures</h2>
--SQL - https://www.w3schools.com/<br>
--Udemy - Podstawy manualnego testowania oprogramowania
-
+<ul>
+  <li>SQL - https://www.w3schools.com/,</li>
+  <li>Udemy - Podstawy manualnego testowania oprogramowania,</li>
+<ul>
 
 <h2>Technical books</h2>
-
--Zawód tester - Radosław Smilgin<br>
--English 4 IT - Beata Błaszczyk<br>
--SQL w mgnieniu oka - Ben Forta<br>
--365 Angielski na każdy dzień - Maria Lekszycka<br>
-
-
+  <ul>
+    <li>Zawód tester - Radosław Smilgin</li>
+    <li>English 4 IT - Beata Błaszczyk</li>
+    <li>SQL w mgnieniu oka - Ben Forta</li>
+    <li>365 Angielski na każdy dzień - Maria Lekszycka</li>
+  </ul>
 
 <h2>Testing groups</h2>
 

@@ -10,9 +10,15 @@ Inżynier Informatyk (specjalizacja programowanie)
 
 <h2>Skills</h2>
 <ul>
-  <li>Python,</li>
-  <li>SQL,</li>
-  <li>Tworzenie przypadków i scenariuszy testowych,</li>
+  <li>Python</li>
+  <li>SQL</li>
+  <li>Creating test cases/li>
+  <li>Software testing</li>
+  <li>Reporting bugs</li>
+  <li>Finding unique CSS selectors and XPaths</li>
+  <li></li>
+  <li></li>
+  
 </ul>
 
 <h2>Languages</h2>
@@ -23,9 +29,9 @@ Inżynier Informatyk (specjalizacja programowanie)
 
 <h2>Coures</h2>
 <ul>
-  <li>SQL - https://www.w3schools.com/,</li>
-  <li>Udemy - Podstawy manualnego testowania oprogramowania,</li>
-<ul>
+  <li>SQL - https://www.w3schools.com/</li>
+  <li>Udemy - Podstawy manualnego testowania oprogramowania</li>
+</ul>
 
 <h2>Technical books</h2>
   <ul>

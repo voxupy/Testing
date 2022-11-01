@@ -21,6 +21,9 @@ Inżynier Informatyk (specjalizacja programowanie)
 <h2>Tools</h2>
 <ul>
   <li><a href="https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi/related?hl=pl">Bug Magnet</a> - Exploratory testing assistant for browser</li>
+  <li>Github</li>
+  <li>Pycharn</li>
+  <li>Postman</li>
 </ul>
 
 <h2>Languages</h2>

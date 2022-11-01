@@ -9,9 +9,9 @@ Hello, my name is Kamil. I an IT enginner. I graduated from Wyższa Szkoła Info
 Inżynier Informatyk (specjalizacja programowanie)
 
 <h2>Skills</h2>
->Python,<br>
--SQL podstawy,<br>
--Tworzenie przypadków i scenariuszy testowych,  <br>
+- Python,<br>
+- SQL podstawy,<br>
+- Tworzenie przypadków i scenariuszy testowych,  <br>
 
 
 <h2>Languages</h2>

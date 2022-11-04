@@ -12,7 +12,7 @@ Inżynier Informatyk (specjalizacja programowanie)
 <ul>
   <li>Python</li>
   <li>SQL</li>
-  <li>Creating test cases/li>
+  <li>Creating test cases</li>
   <li>Software testing</li>
   <li>Reporting bugs</li>
   <li>Finding unique CSS selectors and XPaths</li>

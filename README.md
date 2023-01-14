@@ -10,12 +10,13 @@ Inżynier Informatyk (specjalizacja programowanie)
 
 <h2>Skills</h2>
 <ul>
-  <li>Python</li>
-  <li>SQL</li>
+  <li>Exploratory testing</li>
   <li>Creating test cases</li>
   <li>Software testing</li>
   <li>Reporting bugs</li>
   <li>Finding unique CSS selectors and XPaths</li>
+  <li>Python</li>
+  <li>SQL</li>
 </ul>
 
 <h2>Tools</h2>
@@ -57,7 +58,7 @@ Inżynier Informatyk (specjalizacja programowanie)
   </ul>
 
 
-<h2>YouTube chanells</h2>
+<h2>YouTube channels</h2>
   <ul>
   <li><a href="https://www.youtube.com/@KraQApl/streams">KraQa</a></li>
   </ul>

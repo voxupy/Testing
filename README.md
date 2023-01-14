@@ -46,8 +46,10 @@ Inżynier Informatyk (specjalizacja programowanie)
     <li>365 Angielski na każdy dzień - Maria Lekszycka</li>
   </ul>
 
-<h2>Testing groups</h2>
-
+<h2>Projects</h2>
+  <ul>
+    <li><a href="https://docs.google.com/document/d/1p-5Qkteg5mwMMG6HjtEXaVrbatc-oFSrVhf3XBQn_vM/edit?usp=sharing">Raport</a>Exploratory testing</li>
+  </ul>
 
 
 <h2>Blogs</h2>

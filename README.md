@@ -20,7 +20,10 @@ Inżynier Informatyk (specjalizacja programowanie)
 
 <h2>Tools</h2>
 <ul>
+  <li><a href="https://www.techsmith.com/jing-tool.html">Jing</a> - Screen capture software</li>
   <li><a href="https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi/related?hl=pl">Bug Magnet</a> - Exploratory testing assistant for browser</li>
+  <li><a href="https://www.atlassian.com/software/jira">Jira</a></li>
+  <li><a href="https://trello.com/en">Trello</a></li>
   <li>Github</li>
   <li>Pycharn</li>
   <li>Postman</li>

@@ -57,5 +57,8 @@ Inżynier Informatyk (specjalizacja programowanie)
   </ul>
 
 
-<h2>Blogs</h2>
+<h2>YouTube chanells</h2>
+  <ul>
+  <li><a href="https://www.youtube.com/@KraQApl/streams">KraQa</a></li>
+  </ul>
 

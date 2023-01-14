@@ -31,6 +31,7 @@ Inżynier Informatyk (specjalizacja programowanie)
 
 <h2>Languages</h2>
 <ul>
+  <li> Polish - native</li>
   <li>English B2/B1</li>
 </ul>
 
@@ -39,6 +40,7 @@ Inżynier Informatyk (specjalizacja programowanie)
 <ul>
   <li>SQL - https://www.w3schools.com/</li>
   <li>Udemy - Podstawy manualnego testowania oprogramowania</li>
+  <li>Guru99 - Live Manual Testing project</li>
 </ul>
 
 <h2>Technical books</h2>

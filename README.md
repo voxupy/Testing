@@ -55,6 +55,7 @@ Inżynier Informatyk (specjalizacja programowanie)
 <h2>Projects</h2>
   <ul>
     <li><a href="https://docs.google.com/document/d/1p-5Qkteg5mwMMG6HjtEXaVrbatc-oFSrVhf3XBQn_vM/edit?usp=sharing">Raport</a> - Exploratory testing</li>
+    <li><a href="https://docs.google.com/spreadsheets/d/1B9TIapTO9qzBjiP5PnfBIWo-lNejrT78xyb6MT9Yox4/edit?usp=sharing">Creating account - Test Case</a></li>
   </ul>
 
 

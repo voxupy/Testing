@@ -1,11 +1,15 @@
 <h2>Portfolio</h2>
 
 <h2>About Me</h2>
-Hello, my name is Kamil. I'm an IT enginner. I graduated from Wyższa Szkoła Informatyki Stosowanej we Wrocławiu. Recently i have started interest to software testing. My goal is to develop testing knowlage, technical skills, and also get my first job. On this site I would like to share all gained experience from personal studies and researches.
+Hello, my name is Kamil. I'm an IT enginner. I graduated from Wyższa Szkoła Informatyki Stosowanej we Wrocławiu. I have recently embarked on a career change journey in order to become a Software Tester. This carrer path interested me for a while, so I am excited to be given me a chance to prove my skills. I belive that high quality is bestselling point of services and products. Thanks to my diversified experience i have highly developed interpersonal skills and team play, which help me to see the bigger picture and fuction well with team. My goal is to develop testing knowlage, technical skills, and also get my first job. On this site I would like to share all gained experience from personal studies and researches.
+
+<b>Experience</b>
+My previous work was quality inspector in aircraft sector, which was involved in very big responsibility, patience and accuracy. I was able to test the documentation. Also had to work with drawing documentation, and work in team. In case of big resposibility, my work had to be very carefully and precision.
+
 
 <h2>Education</h2>
 
-2016 - 2020 Wyższa Szkoła Informatyki Stosowanej we Wrocławiu <br>
+ Wyższa Szkoła Informatyki Stosowanej we Wrocławiu <br>
 Inżynier Informatyk (specjalizacja programowanie)
 
 <h2>Skills</h2>

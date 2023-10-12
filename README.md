@@ -30,6 +30,7 @@ Inżynier Informatyk (specjalizacja programowanie)
   <li><a href="https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi/related?hl=pl">Bug Magnet</a> - Exploratory testing assistant for browser</li>
   <li><a href="https://www.atlassian.com/software/jira">Jira</a></li>
   <li><a href="https://trello.com/en">Trello</a></li>
+  <li><a href="https://docs.getxray.app/site/xray">Xray</a></li>
   <li>Github</li>
   <li>Pycharn</li>
   <li>Postman</li>
@@ -62,6 +63,8 @@ Inżynier Informatyk (specjalizacja programowanie)
   <ul>
     <li><a href="https://docs.google.com/document/d/1p-5Qkteg5mwMMG6HjtEXaVrbatc-oFSrVhf3XBQn_vM/edit?usp=sharing">Raport</a> - Exploratory testing</li>
     <li><a href="https://drive.google.com/file/d/1DKfy6ClGjkSf7PBvAy3N3JuBR4O2oeSs/view?usp=drive_link">Burger king site</a></li>
+    <li><a href="https://drive.google.com/file/d/1q1UQt8ujO44rYPUk6u88g9M3WItRK3wk/view?usp=drive_link">Strefasportu.pl - Exploratory testing</a></li>
+    <li><a href="https://drive.google.com/file/d/1zvuLzG0AAkeamp2cm6j7S2ZJP0gSw20e/view?usp=drive_link">Strefasportu.pl - video from pdf</li>
   </ul>
 
 

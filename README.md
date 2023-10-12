@@ -27,14 +27,14 @@ Inżynier Informatyk (specjalizacja programowanie)
 
 <h2>Tools</h2>
 <ul>
-  <li><a href="https://www.techsmith.com/jing-tool.html">Jing</a> - Screen capture software</li>
-  <li><a href="https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi/related?hl=pl">Bug Magnet</a> - Exploratory testing assistant for browser</li>
-  <li><a href="https://www.atlassian.com/software/jira">Jira</a></li>
-  <li><a href="https://trello.com/en">Trello</a></li>
-  <li><a href="https://docs.getxray.app/site/xray">Xray</a></li>
-  <li>Github</li>
-  <li>Pycharn</li>
-  <li>Postman</li>
+  <li><a href="https://www.techsmith.com/jing-tool.html"><b>Jing</b></a> - Screen capture software</li>
+  <li><a href="https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi/related?hl=pl"><b>Bug Magnet</b></a> - Exploratory testing assistant for browser</li>
+  <li><a href="https://www.atlassian.com/software/jira"><b>Jira</b></a></li>
+  <li><a href="https://trello.com/en"><b>Trello</b></a></li>
+  <li><a href="https://docs.getxray.app/site/xray">Xray</a> - native quality managment</li>
+  <li><b>Github</b> - a code hosting platform for version control</li>
+  <li><b>Pycharn</b> - IDE for Python programming language</li>
+
 </ul>
 
 <h2>Languages</h2>

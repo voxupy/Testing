@@ -54,7 +54,8 @@ Inżynier Informatyk (specjalizacja programowanie)
   <li>SQL - https://www.w3schools.com/</li>
   <li><a href="https://drive.google.com/file/d/1mPzwAXR0BeaJN1cT1I5zFOpBXESxT2xa/view?usp=drive_link">Udemy - Podstawy manualnego testowania oprogramowania</li>
   <li>Guru99 - Live Manual Testing project</li>
-  <li>GoIT - 4days maraton(test cases, test runs, bugs reporting in Jira, TestRail)
+  <li>GoIT - 4days marathon(test cases, test runs, bugs reporting in Jira, TestRail)</li>
+  <li>GoIT - 7days marathon(figma, HTML+CSS basics)</li>
 </ul>
 
 <h2>Technical books</h2>

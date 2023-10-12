@@ -7,7 +7,7 @@ Hello, my name is Kamil. I'm an IT enginner. I graduated from Wyższa Szkoła In
 
 My previous work was quality inspector in aircraft sector, which was involved in very big responsibility, patience and accuracy. I was able to test the documentation. Also had to work with drawing documentation, and work in team. In case of big resposibility, my work had to be very carefully and precision.
 
-<center>LinkedIN Profile</center>
+<ul><center>LinkedIN Profile</center></ul>
 
 
 <h2>Education</h2>

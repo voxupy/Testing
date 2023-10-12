@@ -8,8 +8,9 @@ Hello, my name is Kamil. I'm an IT enginner. I graduated from Wyższa Szkoła In
 My previous work was quality inspector in aircraft sector, which was involved in very big responsibility, patience and accuracy. I was able to test the documentation. Also had to work with drawing documentation, and work in team. In case of big resposibility, my work had to be very carefully and precision.
 
 
-<p align="center" dir="auto" img src="https://img.freepik.com/free-vector/software-testing-programmer-cartoon-character-with-magnifier-looking-defects-programme-application-software-bugs-errors-risks-vector-isolated-concept-metaphor-illustration_335657-2742.jpg?w=826&t=st=1697143378~exp=1697143978~hmac=a771ce67dbf9d216b68db94a8ef0c976779fea6e69797d0d98eef14d1bca880c" alt="Obraz autorstwa storyset na Freepik" width="45%" height="45%" style="max-width: 100%;">
-</p>
+<p align="center" dir="auto"><a href="https://www.linkedin.com/in/kamil-kubiak/">Linkedin - Profile</a></p>
+<p align="center" dir="auto"> 
+<img src="https://img.freepik.com/free-vector/software-testing-programmer-cartoon-character-with-magnifier-looking-defects-programme-application-software-bugs-errors-risks-vector-isolated-concept-metaphor-illustration_335657-2742.jpg?w=826&t=st=1697143378~exp=1697143978~hmac=a771ce67dbf9d216b68db94a8ef0c976779fea6e69797d0d98eef14d1bca880c" alt="Obraz autorstwa storyset na Freepik" width="45%" height="45%" style="max-width: 100%;"></p>
 
 
 <h2>Education</h2>

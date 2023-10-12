@@ -58,10 +58,10 @@ Inżynier Informatyk (specjalizacja programowanie)
     <li>365 Angielski na każdy dzień - Maria Lekszycka</li>
   </ul>
 
-<h2>Projects</h2>
+<h2>Projects - Exploratory testing</h2>
   <ul>
     <li><a href="https://docs.google.com/document/d/1p-5Qkteg5mwMMG6HjtEXaVrbatc-oFSrVhf3XBQn_vM/edit?usp=sharing">Raport</a> - Exploratory testing</li>
-    <li><a href="https://docs.google.com/spreadsheets/d/1B9TIapTO9qzBjiP5PnfBIWo-lNejrT78xyb6MT9Yox4/edit?usp=sharing">Creating account - Test Case</a></li>
+    <li><a href="https://drive.google.com/file/d/1DKfy6ClGjkSf7PBvAy3N3JuBR4O2oeSs/view?usp=drive_link">Burger king site</a></li>
   </ul>
 
 

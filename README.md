@@ -1,5 +1,5 @@
 <h2>Portfolio</h2>
-
+<p align="center"><href="https://drive.google.com/file/d/1Okb05EQT2_iO2LcBDXkLVYo2H1kF_CjO/view?usp=drive_link"></href></p>
 <h2>About Me</h2>
 Hello, my name is Kamil. I'm an IT enginner. I graduated from Wyższa Szkoła Informatyki Stosowanej we Wrocławiu. I have recently embarked on a career change journey in order to become a Software Tester. This carrer path interested me for a while, so I am excited to be given me a chance to prove my skills. I belive that high quality is bestselling point of services and products. Thanks to my diversified experience i have highly developed interpersonal skills and team play, which help me to see the bigger picture and fuction well with team. My goal is to develop testing knowlage, technical skills, and also get my first job. On this site I would like to share all gained experience from personal studies and researches.
 

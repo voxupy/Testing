@@ -54,10 +54,10 @@ Inżynier Informatyk (specjalizacja programowanie)
 
 <h2>Technical books</h2>
   <ul>
-    <li>Zawód tester - Radosław Smilgin</li>
-    <li>English 4 IT - Beata Błaszczyk</li>
-    <li>SQL w mgnieniu oka - Ben Forta</li>
-    <li>365 Angielski na każdy dzień - Maria Lekszycka</li>
+    <li><a href="https://lubimyczytac.pl/ksiazka/291227/zawod-tester">Zawód tester - Radosław Smilgin</a></li>
+    <li><a href="https://lubimyczytac.pl/ksiazka/4510114/english-4-it-praktyczny-kurs-jezyka-angielskiego-dla-specjalistow-it-i-nie-tylko">English 4 IT - Beata Błaszczyk</a></li>
+    <li><a href="https://lubimyczytac.pl/ksiazka/276512/sql-w-mgnieniu-oka-opanuj-jezyk-zapytan-w-10-minut-dziennie">SQL w mgnieniu oka - Ben Forta</a></li>
+    <li><a href="https://lubimyczytac.pl/ksiazka/4879240/365-angielski-na-kazdy-dzien">365 Angielski na każdy dzień - Maria Lekszycka</a></li>
   </ul>
 
 <h2>Projects - Exploratory testing</h2>

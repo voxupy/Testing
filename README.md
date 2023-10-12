@@ -13,15 +13,16 @@ My previous work was quality inspector in aircraft sector, which was involved in
  Wyższa Szkoła Informatyki Stosowanej we Wrocławiu <br>
 Inżynier Informatyk (specjalizacja programowanie)
 
-<h2>Skills</h2>
+<h2>Tech Skills</h2>
 <ul>
-  <li>Exploratory testing</li>
-  <li>Creating test cases</li>
-  <li>Software testing</li>
+  <li>Knowledge of <b>testing procedure</b></li>
+  <li>Knowledge of how to create <b>test documentation</b> </li>
+  <li>Knowledge of Syllabus <b>ISTQB Foundation level</b></li>
   <li>Reporting bugs</li>
   <li>Finding unique CSS selectors and XPaths</li>
-  <li>Python</li>
-  <li>SQL</li>
+  <li><b>HTML/CSS</b> basis</li>
+  <li><b>Python</b> basis</li>
+  <li><b>SQL</b> basis</li>
 </ul>
 
 <h2>Tools</h2>

@@ -1,5 +1,5 @@
 <h2>Portfolio</h2>
-<p align="center"><href="https://drive.google.com/file/d/1Okb05EQT2_iO2LcBDXkLVYo2H1kF_CjO/view?usp=drive_link"></href></p>
+
 <h2>About Me</h2>
 Hello, my name is Kamil. I'm an IT enginner. I graduated from Wyższa Szkoła Informatyki Stosowanej we Wrocławiu. I have recently embarked on a career change journey in order to become a Software Tester. This carrer path interested me for a while, so I am excited to be given me a chance to prove my skills. I belive that high quality is bestselling point of services and products. Thanks to my diversified experience i have highly developed interpersonal skills and team play, which help me to see the bigger picture and fuction well with team. My goal is to develop testing knowlage, technical skills, and also get my first job. On this site I would like to share all gained experience from personal studies and researches.
 
@@ -8,7 +8,7 @@ Hello, my name is Kamil. I'm an IT enginner. I graduated from Wyższa Szkoła In
 My previous work was quality inspector in aircraft sector, which was involved in very big responsibility, patience and accuracy. I was able to test the documentation. Also had to work with drawing documentation, and work in team. In case of big resposibility, my work had to be very carefully and precision.
 
 <ul><center>LinkedIN Profile</center></ul>
-
+<img src="https://img.freepik.com/free-vector/software-testing-programmer-cartoon-character-with-magnifier-looking-defects-programme-application-software-bugs-errors-risks-vector-isolated-concept-metaphor-illustration_335657-2742.jpg?w=826&t=st=1697143378~exp=1697143978~hmac=a771ce67dbf9d216b68db94a8ef0c976779fea6e69797d0d98eef14d1bca880c" alt="Obraz autorstwa storyset na Freepik" width="70%" height="70%" style="max-width: 100%;">
 
 <h2>Education</h2>
 

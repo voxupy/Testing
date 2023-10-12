@@ -33,13 +33,13 @@ Inżynier Informatyk (specjalizacja programowanie)
   <li><a href="https://trello.com/en"><b>Trello</b></a> - a visual tool for project managment </li>
   <li><a href="https://docs.getxray.app/site/xray"><b>Xray</b></a> - native quality managment</li>
   <li><b>Github</b> - a code hosting platform for version control</li>
-  <li><b>Pycharn</b> - IDE for Python programming language</li>
+  <li><a href="https://www.jetbrains.com/pycharm/"><b>Pycharn</b></a> - IDE for Python programming language</li>
 
 </ul>
 
 <h2>Languages</h2>
 <ul>
-  <li> Polish - native</li>
+  <li>Polish - native</li>
   <li>English B2/B1</li>
 </ul>
 

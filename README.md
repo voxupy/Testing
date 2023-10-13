@@ -56,6 +56,7 @@ Inżynier Informatyk (specjalizacja programowanie)
   <li>Guru99 - Live Manual Testing project</li>
   <li>GoIT - 4days marathon(test cases, test runs, bugs reporting in Jira, TestRail)</li>
   <li>GoIT - 7days marathon(figma, HTML+CSS basics)</li>
+  <li><a href="https://university.atlassian.com/student/award/QkaknbUF719Zg4K1Pj3c9DSb">Confluence Fundamentals - Atlassian University</li><(basic navigation in Confluence, working in Confluence, best practices)
 </ul>
 
 <h2>Technical books</h2>

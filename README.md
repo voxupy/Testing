@@ -70,12 +70,13 @@ Inżynier Informatyk (specjalizacja programowanie)
     <li><a href="https://lubimyczytac.pl/ksiazka/4879240/365-angielski-na-kazdy-dzien">365 Angielski na każdy dzień - Maria Lekszycka</a></li>
   </ul>
 
-<h2>Projects - Exploratory testing</h2>
+<h2>Projects</h2>
   <ul>
-    <li><a href="https://docs.google.com/document/d/1p-5Qkteg5mwMMG6HjtEXaVrbatc-oFSrVhf3XBQn_vM/edit?usp=sharing">Raport</a> - Exploratory testing</li>
-    <li><a href="https://drive.google.com/file/d/1DKfy6ClGjkSf7PBvAy3N3JuBR4O2oeSs/view?usp=drive_link">Burger king site</a></li>
-    <li><a href="https://drive.google.com/file/d/1q1UQt8ujO44rYPUk6u88g9M3WItRK3wk/view?usp=drive_link">Strefasportu.pl - Exploratory testing</a></li>
-    <li><a href="https://drive.google.com/file/d/1zvuLzG0AAkeamp2cm6j7S2ZJP0gSw20e/view?usp=drive_link">Strefasportu.pl - video from pdf</li>
+    <li><a href="https://docs.google.com/document/d/1p-5Qkteg5mwMMG6HjtEXaVrbatc-oFSrVhf3XBQn_vM/edit?usp=sharing">Raport</a> - Exploratory testing (raport in WORD OFFICE)</li>
+    <li><a href="https://drive.google.com/file/d/1DKfy6ClGjkSf7PBvAy3N3JuBR4O2oeSs/view?usp=drive_link">Burger king site</a> - Exploratory testing (raport from xray in PDF)</li>
+    <li><a href="https://drive.google.com/file/d/1q1UQt8ujO44rYPUk6u88g9M3WItRK3wk/view?usp=drive_link">Strefasportu.pl</a> - Exploratory testing (raport from xray in PDF)</li>
+     <a href="https://drive.google.com/file/d/1zvuLzG0AAkeamp2cm6j7S2ZJP0gSw20e/view?usp=drive_link">Strefasportu.pl - video from pdf</a>
+     <li><a href="https://github.com/voxupy/Jira-Project/blob/main/README.md">JIRA PROJECT</a> - Testing Phone application, creating tasks in JIRA (Polish langugae)</li>
   </ul>
 
 

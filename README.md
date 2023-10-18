@@ -77,6 +77,7 @@ Inżynier Informatyk (specjalizacja programowanie)
     <li><a href="https://drive.google.com/file/d/1q1UQt8ujO44rYPUk6u88g9M3WItRK3wk/view?usp=drive_link">Strefasportu.pl</a> - Exploratory testing (raport from xray in PDF)</li>
      <a href="https://drive.google.com/file/d/1zvuLzG0AAkeamp2cm6j7S2ZJP0gSw20e/view?usp=drive_link">Strefasportu.pl - video from pdf</a>
      <li><a href="https://github.com/voxupy/Jira-Project/blob/main/README.md">JIRA PROJECT</a> - Testing Phone application, creating tasks in JIRA (Polish langugae)</li>
+   <li>Warsztaty - Adam Gola</li>
   </ul>
 
 

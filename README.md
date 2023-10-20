@@ -49,16 +49,15 @@ Inżynier Informatyk (specjalizacja programowanie)
 </ul>
 
 
-<h2>Courses</h2>
+<h2>Courses and certificats</h2>
 <ul>
   <li>SQL - https://www.w3schools.com/</li>
   <li><a href="https://certificates.mooc.fi/validate/rx9wxo8algr">Elements of AI</a></li>
   <li><a href="https://drive.google.com/file/d/1mPzwAXR0BeaJN1cT1I5zFOpBXESxT2xa/view?usp=drive_link">Udemy - Podstawy manualnego testowania oprogramowania</li>
   <li>Guru99 - Live Manual Testing project</li>
   <li>GoIT - 4days marathon(test cases, test runs, bugs reporting in Jira, TestRail)</li>
-  <li>GoIT - 7days marathon(figma, HTML+CSS basics)</li>
-  <li><a href="https://university.atlassian.com/student/award/QkaknbUF719Zg4K1Pj3c9DSb">Confluence Fundamentals - Atlassian University</li><(basic navigation in Confluence, working in Confluence, best practices)
-  <li><a href="https://university.atlassian.com/student/award/LQxAV3DevYiasnbV5S2kk8Vv">Jira Fundamentals - Atlassian University</li><(basic navigation in Jira, working in Jira, best practices)
+  <li><a href="https://university.atlassian.com/student/award/QkaknbUF719Zg4K1Pj3c9DSb">Confluence Fundamentals - Atlassian University</li>(basic navigation in Confluence, working in Confluence, best practices)
+  <li><a href="https://university.atlassian.com/student/award/LQxAV3DevYiasnbV5S2kk8Vv">Jira Fundamentals - Atlassian University</li>(basic navigation in Jira, working in Jira, best practices)
 
    
 </ul>
@@ -81,11 +80,6 @@ Inżynier Informatyk (specjalizacja programowanie)
    <li>Warsztaty - Adam Gola</li>
   </ul>
 
-
-<h2>YouTube channels</h2>
-  <ul>
-  <li><a href="https://www.youtube.com/@KraQApl/streams">KraQa</a></li>
-  </ul>
 
 <h2>Webinars</h2>
   <ul>

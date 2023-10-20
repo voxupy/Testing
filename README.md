@@ -58,6 +58,7 @@ Inżynier Informatyk (specjalizacja programowanie)
   <li>GoIT - 4days marathon(test cases, test runs, bugs reporting in Jira, TestRail)</li>
   <li><a href="https://university.atlassian.com/student/award/QkaknbUF719Zg4K1Pj3c9DSb">Confluence Fundamentals - Atlassian University</li>(basic navigation in Confluence, working in Confluence, best practices)
   <li><a href="https://university.atlassian.com/student/award/LQxAV3DevYiasnbV5S2kk8Vv">Jira Fundamentals - Atlassian University</li>(basic navigation in Jira, working in Jira, best practices)
+  <li><a href="https://docs.google.com/document/d/1pK9uFvmEiZTtOCejWv-U0GnPOYflIk3-/edit?usp=share_link&ouid=112903918200710951300&rtpof=true&sd=true">Warsztaty - Adam Gola</a></li>
 
    
 </ul>
@@ -77,7 +78,7 @@ Inżynier Informatyk (specjalizacja programowanie)
     <li><a href="https://drive.google.com/file/d/1q1UQt8ujO44rYPUk6u88g9M3WItRK3wk/view?usp=drive_link">Strefasportu.pl</a> - Exploratory testing (raport from xray in PDF)</li>
      <a href="https://drive.google.com/file/d/1zvuLzG0AAkeamp2cm6j7S2ZJP0gSw20e/view?usp=drive_link">Strefasportu.pl - video from pdf</a>
      <li><a href="https://github.com/voxupy/Jira-Project/blob/main/README.md">JIRA PROJECT</a> - Testing Phone application, creating tasks in JIRA (Polish langugae)</li>
-   <li>Warsztaty - Adam Gola</li>
+   
   </ul>
 
 

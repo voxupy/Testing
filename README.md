@@ -65,6 +65,7 @@ Inżynier Informatyk (specjalizacja programowanie)
 
 <h2>Technical books</h2>
   <ul>
+   <li><a href="https://ksiegarnia.pwn.pl/Praktyka-testowania,847295499,p.html">Praktyka testowania - Radosław Smilgin</a></li> - In progress
     <li><a href="https://lubimyczytac.pl/ksiazka/291227/zawod-tester">Zawód tester - Radosław Smilgin</a></li>
     <li><a href="https://lubimyczytac.pl/ksiazka/4510114/english-4-it-praktyczny-kurs-jezyka-angielskiego-dla-specjalistow-it-i-nie-tylko">English 4 IT - Beata Błaszczyk</a></li>
     <li><a href="https://lubimyczytac.pl/ksiazka/276512/sql-w-mgnieniu-oka-opanuj-jezyk-zapytan-w-10-minut-dziennie">SQL w mgnieniu oka - Ben Forta</a></li>

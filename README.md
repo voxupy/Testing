@@ -54,7 +54,6 @@ Inżynier Informatyk (specjalizacja programowanie)
   <li>SQL - https://www.w3schools.com/</li>
   <li><a href="https://certificates.mooc.fi/validate/rx9wxo8algr">Elements of AI</a></li>
   <li><a href="https://drive.google.com/file/d/1mPzwAXR0BeaJN1cT1I5zFOpBXESxT2xa/view?usp=drive_link">Udemy - Podstawy manualnego testowania oprogramowania</li>
-  <li>Guru99 - Live Manual Testing project</li>
   <li>GoIT - 4days marathon(test cases, test runs, bugs reporting in Jira, TestRail)</li>
   <li><a href="https://university.atlassian.com/student/award/QkaknbUF719Zg4K1Pj3c9DSb">Confluence Fundamentals - Atlassian University</li>(basic navigation in Confluence, working in Confluence, best practices)
   <li><a href="https://university.atlassian.com/student/award/LQxAV3DevYiasnbV5S2kk8Vv">Jira Fundamentals - Atlassian University</li>(basic navigation in Jira, working in Jira, best practices)
@@ -79,6 +78,8 @@ Inżynier Informatyk (specjalizacja programowanie)
     <li><a href="https://drive.google.com/file/d/1q1UQt8ujO44rYPUk6u88g9M3WItRK3wk/view?usp=drive_link">Strefasportu.pl</a> - Exploratory testing (raport from xray in PDF)</li>
      <a href="https://drive.google.com/file/d/1zvuLzG0AAkeamp2cm6j7S2ZJP0gSw20e/view?usp=drive_link">Strefasportu.pl - video from pdf</a>
      <li><a href="https://github.com/voxupy/Jira-Project/blob/main/README.md">JIRA PROJECT</a> - Testing Phone application, creating tasks in JIRA (Polish langugae)</li>
+     <li><a href="https://docs.google.com/spreadsheets/d/15-vVPC_IAz_iANDinzEvN6wFv2cDrO5lmVlSSZ5DBys/edit?usp=sharing">Guru99 - Live Manual Testing project</a> - Test scenario</li> 
+
    
   </ul>
 

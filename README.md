@@ -55,9 +55,21 @@ Inżynier Informatyk (specjalizacja programowanie)
   <li><a href="https://certificates.mooc.fi/validate/rx9wxo8algr">Elements of AI</a></li>
   <li><a href="https://drive.google.com/file/d/1mPzwAXR0BeaJN1cT1I5zFOpBXESxT2xa/view?usp=drive_link">Udemy - Podstawy manualnego testowania oprogramowania</li>
   <li>GoIT - 4days marathon(test cases, test runs, bugs reporting in Jira, TestRail)</li>
-  <li><a href="https://university.atlassian.com/student/award/QkaknbUF719Zg4K1Pj3c9DSb">Confluence Fundamentals - Atlassian University</li>(basic navigation in Confluence, working in Confluence, best practices)
-  <li><a href="https://university.atlassian.com/student/award/LQxAV3DevYiasnbV5S2kk8Vv">Jira Fundamentals - Atlassian University</li>(basic navigation in Jira, working in Jira, best practices)
+  <li><a href="https://university.atlassian.com/student/award/QkaknbUF719Zg4K1Pj3c9DSb">Confluence Fundamentals - Atlassian University</li>
+    <ol>
+    <li>basic navigation in Confluence, working in Confluence, best practices</li>
+    </ol>
+  <li><a href="https://university.atlassian.com/student/award/LQxAV3DevYiasnbV5S2kk8Vv">Jira Fundamentals - Atlassian University</li>
+     <ol>
+    <li>basic navigation in Jira, working in Jira, best practices)</li>
+     </ol>
   <li><a href="https://docs.google.com/document/d/1pK9uFvmEiZTtOCejWv-U0GnPOYflIk3-/edit?usp=share_link&ouid=112903918200710951300&rtpof=true&sd=true">Warsztaty - Adam Gola</a></li>
+  <li>Praktyka testowania book</li>
+     <ol>
+      <li><a href="https://docs.google.com/document/d/1hlg-LckkEngYpxwXD2123a4e23CvfTYaGwsNZ9pi_yo/edit">Project</a></li>
+      <li><a href="https://docs.google.com/spreadsheets/d/1SpdAfSoIjnvapUcMypI9PjiuLrD3G0QF/edit#gid=97294415">Found bugs</a></li>
+     </ol>
+  
 
    
 </ul>

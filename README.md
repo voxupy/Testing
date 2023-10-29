@@ -68,6 +68,8 @@ Inżynier Informatyk (specjalizacja programowanie)
      <ol>
       <li><a href="https://docs.google.com/document/d/1hlg-LckkEngYpxwXD2123a4e23CvfTYaGwsNZ9pi_yo/edit">Project</a></li>
       <li><a href="https://docs.google.com/spreadsheets/d/1SpdAfSoIjnvapUcMypI9PjiuLrD3G0QF/edit#gid=97294415">Found bugs</a></li>
+  <li><a href="https://github.com/voxupy/Mr-buggy3">Mrbuggy3</a>Documentation testing, test cases for login</li>
+      
      </ol>
   
 

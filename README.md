@@ -65,12 +65,8 @@ Inżynier Informatyk (specjalizacja programowanie)
     <li>basic navigation in Jira, working in Jira, best practices)</li>
      </ol>
   <li><a href="https://docs.google.com/document/d/1pK9uFvmEiZTtOCejWv-U0GnPOYflIk3-/edit?usp=share_link&ouid=112903918200710951300&rtpof=true&sd=true">Warsztaty - Adam Gola</a></li>
-  <li>Praktyka testowania book</li>
-     <ol>
-      <li><a href="https://docs.google.com/document/d/1hlg-LckkEngYpxwXD2123a4e23CvfTYaGwsNZ9pi_yo/edit">Project</a></li>
-      <li><a href="https://docs.google.com/spreadsheets/d/1SpdAfSoIjnvapUcMypI9PjiuLrD3G0QF/edit#gid=97294415">Found bugs</a></li>
-     </ol>
-  <li><a href="https://github.com/voxupy/Mr-buggy3">Mrbuggy3</a> Documentation testing, test cases for login</li>
+  
+ 
      
   
 
@@ -79,7 +75,9 @@ Inżynier Informatyk (specjalizacja programowanie)
 
 <h2>Technical books</h2>
   <ul>
-   <li><a href="https://ksiegarnia.pwn.pl/Praktyka-testowania,847295499,p.html">Praktyka testowania - Radosław Smilgin</a> - In progress</li>
+   <li><a href="https://lubimyczytac.pl/ksiazka/4961849/pasja-testowania">Pasja testowania - Krzysztof Jadczyk</a></li>
+   <li><a href="https://lubimyczytac.pl/ksiazka/4972677/kierunek-jakosc-jak-unikac-bledow-w-projekcie">Kierunek jakość - Aleksandra Kunysz - in progress</a></li>
+   <li><a href="https://ksiegarnia.pwn.pl/Praktyka-testowania,847295499,p.html">Praktyka testowania - Radosław Smilgin</a></li>
     <li><a href="https://lubimyczytac.pl/ksiazka/291227/zawod-tester">Zawód tester - Radosław Smilgin</a></li>
     <li><a href="https://lubimyczytac.pl/ksiazka/4510114/english-4-it-praktyczny-kurs-jezyka-angielskiego-dla-specjalistow-it-i-nie-tylko">English 4 IT - Beata Błaszczyk</a></li>
     <li><a href="https://lubimyczytac.pl/ksiazka/276512/sql-w-mgnieniu-oka-opanuj-jezyk-zapytan-w-10-minut-dziennie">SQL w mgnieniu oka - Ben Forta</a></li>
@@ -88,8 +86,13 @@ Inżynier Informatyk (specjalizacja programowanie)
 
 <h2>Projects</h2>
   <ul>
+   <li>Praktyka testowania book</li>
+     <ol>
+      <li><a href="https://docs.google.com/document/d/1hlg-LckkEngYpxwXD2123a4e23CvfTYaGwsNZ9pi_yo/edit">Project</a></li>
+      <li><a href="https://docs.google.com/spreadsheets/d/1SpdAfSoIjnvapUcMypI9PjiuLrD3G0QF/edit#gid=97294415">Found bugs</a></li>
+     </ol>
+    <li><a href="https://github.com/voxupy/Mr-buggy3">Mrbuggy3</a> Documentation testing, test cases for login</li>
     <li><a href="https://docs.google.com/document/d/1p-5Qkteg5mwMMG6HjtEXaVrbatc-oFSrVhf3XBQn_vM/edit?usp=sharing">Raport</a> - Exploratory testing (raport in WORD OFFICE)</li>
-    <li><a href="https://drive.google.com/file/d/1DKfy6ClGjkSf7PBvAy3N3JuBR4O2oeSs/view?usp=drive_link">Burger king site</a> - Exploratory testing (raport from xray in PDF)</li>
     <li><a href="https://drive.google.com/file/d/1q1UQt8ujO44rYPUk6u88g9M3WItRK3wk/view?usp=drive_link">Strefasportu.pl</a> - Exploratory testing (raport from xray in PDF)</li>
      <a href="https://drive.google.com/file/d/1zvuLzG0AAkeamp2cm6j7S2ZJP0gSw20e/view?usp=drive_link">Strefasportu.pl - video from pdf</a>
      <li><a href="https://github.com/voxupy/Jira-Project/blob/main/README.md">JIRA PROJECT</a> - Testing Phone application, creating tasks in JIRA (Polish langugae)</li>

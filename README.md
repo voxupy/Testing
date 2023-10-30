@@ -105,4 +105,5 @@ Inżynier Informatyk (specjalizacja programowanie)
 <h2>Webinars</h2>
   <ul>
     <li>Bartek Kita - REST API in Postman</li>
+    <li>Po szklanie i na testowanie - Podcast's about quality testing</li>
   </ul>

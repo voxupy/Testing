@@ -97,6 +97,8 @@ Inżynier Informatyk (specjalizacja programowanie)
      <a href="https://drive.google.com/file/d/1zvuLzG0AAkeamp2cm6j7S2ZJP0gSw20e/view?usp=drive_link">Strefasportu.pl - video from pdf</a>
      <li><a href="https://github.com/voxupy/Jira-Project/blob/main/README.md">JIRA PROJECT</a> - Testing Phone application, creating tasks in JIRA (Polish langugae)</li>
      <li><a href="https://docs.google.com/spreadsheets/d/15-vVPC_IAz_iANDinzEvN6wFv2cDrO5lmVlSSZ5DBys/edit?usp=sharing">Guru99 - Live Manual Testing project</a> - Test scenario</li> 
+     <li><a href="https://docs.google.com/document/d/e/2PACX-1vTE26m1BfFl9TTKSi-qAhAVF5VK_Z8d_U3adKKr-qncHWZj4O-QxhdGo_SZ5BHQNfMukFHq1HS6c4j2/pub">SQL - BASIC TASKS</a></li>
+     
 
    
   </ul>
